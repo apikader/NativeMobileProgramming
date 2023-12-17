@@ -1,3 +1,1 @@
 # WelcometoNativeMobileApp
-
-Lab1 
